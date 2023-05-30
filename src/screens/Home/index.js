@@ -38,7 +38,7 @@ export default function Home({navigation}){
              data ={product}
              renderItem={({item}) =>
              <View style={styles.produto}>
-                <View style={styles.descricao} >
+                <View>
                     <Text style={styles.descricao}>{item.descricao}</Text>
                     <Text style={styles.valor}>R$ {item.valor}</Text>
                 </View>

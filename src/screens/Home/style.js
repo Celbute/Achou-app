@@ -23,9 +23,9 @@ const styles = StyleSheet.create({
 
     },
 
-    valor:{
-        fontSize:18,
-        color:'F60'
+    valor: {
+        fontSize: 18,
+        color: '#F60'
     },
 
 
