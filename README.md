@@ -30,6 +30,8 @@ Sua principal finalidade é registrar informações essenciais, como nome e pre�
 
 ##  Back-end
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+### Foi usado: Authentication & Cloud Firestore
+
 # Autor
 André Luís 
 
