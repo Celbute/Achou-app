@@ -10,15 +10,15 @@ Sua principal finalidade é registrar informações essenciais, como nome e pre�
 
 ## Layout Mobile
 <p align="left" >
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/login.png"  width="300px">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/cadastroPessoas.png"   width="300px">  
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/home.png"  width="292px">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/login.png"  width="250px">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/cadastroPessoas.png"   width="250px">  
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/home.png"  width="242px">
   </p>
 
   <p align="left">
  
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/cadastroProd.png"  width="300px">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/homeProd.png"  width="293px">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/cadastroProd.png"  width="250px">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AchouAPP/homeProd.png"  width="242px">
   </p>
 
 
